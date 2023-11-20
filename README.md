@@ -38,6 +38,9 @@ Please click [here](https://borsa8.github.io/Password-Generator/) to view my pro
 
 <img width="884" alt="Screenshot" src="https://github.com/Borsa8/Password-Generator/assets/129904894/14cab1c2-950e-4c0a-9761-dda9f1460dbd">
 
+<img width="783" alt="ss1" src="https://github.com/Borsa8/Password-Generator/assets/129904894/5193a4fe-264b-458f-a7fc-4f8002d8d706">
+
+
 ## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
